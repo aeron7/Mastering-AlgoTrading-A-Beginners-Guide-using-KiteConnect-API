@@ -6,6 +6,8 @@
 
 - **Zerodha KiteConnect**
   - 🤖 A robust platform offering a wide array of trading functionalities through its advanced API.
+- **Main Course**
+  - 📚 Explore the full course details [here](https://unofficed.com/courses/mastering-algotrading-a-beginners-guide-using-kiteconnect-api/).
 
 ## 📚 Table of Contents
 
